@@ -48,4 +48,6 @@ $x \lor x \land y = x \land (1 \lor y) = x$ - law of absorption
 
 3) Launch and enjoy :)
 
-   `./DNFMinimizer`
+   `./dnf_minimizer`
+
+![zhdun](https://github.com/LKolinko/DNFMinimizer/assets/131384241/156bdbed-9abf-4302-9f83-1eddc97dbc86)
