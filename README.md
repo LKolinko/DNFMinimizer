@@ -1,5 +1,8 @@
 # DNFMinimizer
-The project is included in the practical work of FTL ;)
+FTL Practice ;)
+
+![image](https://github.com/LKolinko/UniversalConverter/assets/131384241/4ffb01a8-9387-4ef7-ac5e-56db885ff726)
+
 # What is DNF?
 Disjunctive normal form (DNF) - in Boolean logic is a normal form in which a Boolean formula has the form of a disjunction of conjunctions of literals. The formula of Any Boolean can be given in DNF.[1] To do this, you can use the law of double negation, De Morgan's law, and the law of distributivity. [wiki](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B7%D1%8A%D1%8E%D0%BD%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D0%B0)
 
