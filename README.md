@@ -39,18 +39,22 @@ $x \lor x \land y = x \land (1 \lor y) = x$ - law of absorption
 # Installation
 1) Clone the repo
 
-   `git clone https://github.com/LKolinko/DNFMinimizer`
+   ```bash
+   git clone https://github.com/LKolinko/DNFMinimizer
+   ```
 
-2) Use cmake
+3) Use cmake
 
-   `cd ./DNFMinimizer`
+   ```bash
+   cd ./DNFMinimizer
+   cmake .
+   cmake --build ./
+   ```
 
-   `cmake .`
+5) Launch and enjoy :)
 
-   `cmake --build ./`
-
-3) Launch and enjoy :)
-
-   `./dnf_minimizer`
+   ```bash
+   ./dnf_minimizer
+   ```
 
 ![zhdun](https://github.com/LKolinko/DNFMinimizer/assets/131384241/156bdbed-9abf-4302-9f83-1eddc97dbc86)
